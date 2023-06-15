@@ -1,5 +1,5 @@
 # CW Contracts
 
-My CW Contract Templates
+My CW (CosmWasm) Contract Templates
 
 ## Contract List
